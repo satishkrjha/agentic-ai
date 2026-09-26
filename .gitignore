@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# TimeTrack local database
+TimeTrackProject/src/timetrackproject/timetrack.db
